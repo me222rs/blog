@@ -1,0 +1,1 @@
+I have joined slack and i am very soon going to join the guild.
