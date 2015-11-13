@@ -1,0 +1,3 @@
+This week i have played around with react and redux and i think it's working fine so far. I have done a simple application that says hello world and some other stuff. 
+I have also been thinking about the project this week, but i'm not exactly sure what to do yet. So far i am thinking about doing a quiz or a grocery store where you can 
+click an item on a shelf and then it adds it to the shopping basket. 
