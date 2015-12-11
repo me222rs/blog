@@ -1,0 +1,1 @@
+This week i tried to store the highscores in localstorage and cookies but that failed. So i switched to firebase instead and it seems to work so far. I can not store the scores in the database, but i cannot display them yet.
